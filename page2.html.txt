@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Page 2</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        .btn { padding: 10px 20px; background: #6c757d; color: white; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Page 2</h1>
+    <p>Ye aapka website ka **Page 2** hai.</p>
+    <nav>
+        <a href="page1.html" class="btn">Back to Page 1</a>
+    </nav>
+</body>
+</html>

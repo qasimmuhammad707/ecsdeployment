@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Page 1</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        nav { margin-bottom: 20px; }
+        .btn { padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Welcome Qasim!</h1>
+    <p>Ye aapka **Page 1** hai.</p>
+    <nav>
+        <a href="page2.html" class="btn">Go to Page 2</a>
+        <a href="index.html" style="margin-left: 10px; color: red;">Logout</a>
+    </nav>
+</body>
+</html>
