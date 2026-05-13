@@ -6,10 +6,12 @@ branches:
 - main
 
 env:
+env:
 AWS_REGION: ap-south-1
-ECS_CLUSTER: my-website-clusters
-ECS_SERVICE: ecstaskfa-service-sgwclr7l
 ECR_REPOSITORY: ecs-deployment
+ECS_SERVICE: ecstaskfa-service-sgwclr7l
+ECS_CLUSTER: my-website-clusters
+t
 
 jobs:
 deploy:
